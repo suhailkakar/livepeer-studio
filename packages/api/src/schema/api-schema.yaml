@@ -1,7 +1,7 @@
 openapi: 3.1.0
 
 info:
-  title: Livepeer API Reference
+  title: Livepeer API Reference - test
   description: |
     Welcome to the Livepeer API reference docs. Here you will find all the
     endpoints exposed on the standard Livepeer API, learn how to use them and
